@@ -1,3 +1,4 @@
-import vt
+1 import vt
+2 vt.file()
 
-vt.file()
+
